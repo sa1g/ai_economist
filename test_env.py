@@ -19,7 +19,7 @@ class CreateEnv:
 
     def __init__(self):
         self.env = None
-        self.set_env_config()
+        self.set_env_config()  
 
     def set_env_config(self):
         """Set up a sample environment config"""
